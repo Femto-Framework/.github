@@ -25,4 +25,4 @@ While our framework is lightweight, it is also powerful. Built with modularity a
 Reflection can be a powerful tool, but its overuse can lead to inefficiency and complexity. Our framework limits the use of reflection, employing it only when absolutely necessary, thus ensuring faster execution and easier debugging.
 
 7. **Community and Collaboration**  
-We believe in the power of community. Our framework is open-source, inviting developers from around the globe to contribute, collaborate, and shape its evolution. Together, we build a tool that not only serves the needs of today but anticipates the challenges of tomorrow.
+We are committed to transparency within our community. By making the framework’s development process open and accessible, we foster trust and collaboration. We invite developers from around the globe to contribute, engage meaningfully, and shape the project's evolution. Together, we build a tool that not only serves the needs of today but anticipates the challenges of tomorrow.
